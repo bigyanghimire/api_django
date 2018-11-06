@@ -1,3 +1,3 @@
 # api_test
 
-A basic Django REST API I created using Django Rest Framework.
+The most basic form of Django REST API created using Django Rest Framework while learning DRF.
